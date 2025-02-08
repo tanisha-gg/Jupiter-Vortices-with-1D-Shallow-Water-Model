@@ -1,6 +1,6 @@
 ## This repository contains a Python implementation of a 1-Layer Rotating Shallow Water (RSW) model to simulate vortices, with a focus on applications such as modeling Jupiter's atmosphere. The code uses a pseudospectral method for spatial discretization and Adams-Bashforth for time stepping.
 
-## I've also included two reports I've written about vortices on Jupiter.
+#### I've also included two reports I've written about vortices on Jupiter.
 
 # Features
 Numerical Solver: Solves the 1-Layer RSW equations using a pseudospectral method.
